@@ -17,8 +17,6 @@ export const MovieDetails = () => {
    const res = await fetch(`${url}&t=${params.id}&${api_key}`)
     const data = await res.json()
     setMovie(data)
-    console.log(data);
-    
   }
   useEffect(()=>{
     document.title = params.id
