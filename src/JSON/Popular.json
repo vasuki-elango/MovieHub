@@ -1,0 +1,116 @@
+[
+    {
+        "Title":"The Shawshank Redemption",
+        "Runtime":"3h 3m",
+        "Poster":"https://th.bing.com/th/id/OIP.yobjBRMMdekQvZwGHeebKgHaLH?rs=1&pid=ImgDetMain",
+        "Plot":"A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
+        "ratings":"9.3/10 3M"
+    },
+    {
+        "Title":"The Godfather",
+        "Runtime":"1h 31m",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Plot":"The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "ratings":"9.2/10 2.1M"
+    },
+    {
+        "Title":"The Dark Knight",
+        "Runtime":"2h 50m",
+        "Poster":"https://image.tmdb.org/t/p/original/eP5NL7ZlGoW9tE9qnCdHpOLH1Ke.jpg",
+        "Plot":"When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+        "ratings":"8.2/10 M3"
+    },
+    {
+        "Title":"The Lord of the Rigns",
+        "Runtime":"2h 8m",
+        "Poster":"https://th.bing.com/th/id/OIP.Fe-zd7pd7lKnwdBauA28UQHaLH?rs=1&pid=ImgDetMain",
+        "Plot":"Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "ratings":"9.0/10 2M"
+    },
+    {
+        "Title":"Inception",
+        "Runtime":"2h 32m",
+        "Poster":"https://th.bing.com/th/id/R.be7248985232d46128041023c99fad7d?rik=m%2fYm13OWgvgEMQ&riu=http%3a%2f%2fwww.nolanfans.com%2fimages%2fposters%2finception%2fp4xfull.jpg&ehk=fTBnrxgKiU4dJQxZMWXrFmdjr5dpguBG6osjjkLxxPA%3d&risl=1&pid=ImgRaw&r=0",
+        "Plot":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+        "ratings":"8.8/10 2.6M"
+    },
+    {
+        "Title":"The Matrix",
+        "Runtime":"2h 30m",
+        "Poster":"https://th.bing.com/th/id/R.d970a62a9acac1f23514d598ad7bd7cf?rik=G6TSSpNyruMDnw&riu=http%3a%2f%2fwww.impawards.com%2f1999%2fposters%2fmatrix_ver2_xlg.jpg&ehk=mGMtdAnxjXTVfEzlQUIvaD8%2fKPG8IxOllWV7FlkCEmw%3d&risl=&pid=ImgRaw&r=0",
+        "Plot":"When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "ratings":"8.7/10 2.1M"
+    },
+    {
+        "Title":"Goodfells",
+        "Runtime":"2h 30m",
+        "Poster":"https://th.bing.com/th/id/R.8431cd69a3bbf0dc7676aabb4719e46e?rik=LzPdpxVsPzg02Q&riu=http%3a%2f%2fstatic.rogerebert.com%2fuploads%2fmovie%2fmovie_poster%2fgoodfellas-1990%2flarge_pDTuWp3jRcGbfWn0Ic6XZ0M0DwP.jpg&ehk=0jACV%2fDtlBiF9TPQ%2bbghJ8YZ4RYZ4jLY9yS8pSTF04o%3d&risl=&pid=ImgRaw&r=0",
+        "Plot":"The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+        "ratings":"8.7/10 1.3M"
+    },
+    {
+        "Title":"Parasite",
+        "Runtime":"2h 57m",
+        "Poster":"https://th.bing.com/th/id/OIP.5t4DXNMwe1E-m_6IoUV4JgHaLH?rs=1&pid=ImgDetMain",
+        "Plot":"Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "ratings":"8.5/10 1M"
+    },
+    {
+        "Title":"12th Fail",
+        "Runtime":"2h 56m",
+        "Poster":"https://assets.gadgets360cdn.com/pricee/assets/product/202308/12th_Fail_poster1_1691753464.jpg",
+        "Plot":"The real-life story of IPS Officer Manoj Kumar Sharma and IRS Officer Shraddha Joshi.",
+        "ratings":"8.8/10 136k"
+    },
+    {
+        "Title":"Avengers:Infinty War",
+        "Runtime":"2h 21m",
+        "Poster":"https://th.bing.com/th/id/OIP.1jdklJKgjAe81COtBdjG9AHaLH?rs=1&pid=ImgDetMain",
+        "Plot":"The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "ratings":"8.4/10 1.2M"
+    },
+    {
+        "Title":"Toy Story",
+        "Runtime":"2h 47m",
+        "Poster":"https://th.bing.com/th/id/OIP.NcgumPzOoY0RjAucW5RskQHaH1?rs=1&pid=ImgDetMain",
+        "Plot":"A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+        "ratings":"8.3/10 1.1M"
+    },
+    {
+        "Title":"Your Name",
+        "Runtime":"2h 27m",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNGYyNmI3M2YtNzYzZS00OTViLTkxYjAtZDIyZmE1Y2U1ZmQ2XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+        "Plot":"Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.",
+        "ratings":"8.4/10 340k"
+    },
+    {
+        "Title":"Joker",
+        "Runtime":"1h 42m",
+        "Poster":"https://th.bing.com/th/id/R.7deef9687b7db725161b6f90ab10df3d?rik=Idlp%2fmYWXVoCUA&riu=http%3a%2f%2fimages5.fanpop.com%2fimage%2fphotos%2f28600000%2fthe-joker-the-joker-28699615-967-1450.jpg&ehk=Rplc8PIuuXdFek1uH%2f7ssDOliu6vChFeghOjI1gurWU%3d&risl=&pid=ImgRaw&r=0",
+        "Plot":"Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of chaos in Gotham City.",
+        "ratings":"8.4/10 1.6M"
+    },
+    {
+        "Title":"Jurassic Park",
+        "Runtime":"2h 26m",
+        "Poster":"https://image.tmdb.org/t/p/original/456FcvyTujRwzgoMoKKoheeCOlU.jpg",
+        "Plot":"An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone's lives, including his grandchildren's, in danger.",
+        "ratings":"8.2/10 1.1M"
+    },
+    {
+        "Title":"Maharaja",
+        "Runtime":"1h 45m",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BOTI0ZDM0ZDktZWMyMy00YWJjLWIzY2YtNzFkN2ZiMWNiNzk1XkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_.jpg",
+        "Plot":"A barber seeks vengeance after his home is burglarized, cryptically telling police his lakshmi has been taken, leaving them uncertain if it's a person or object. His quest to recover the elusive lakshmi unfolds.",
+        "ratings":"8.5/10 55k"
+    },
+    {
+        "Title":"IT",
+        "Runtime":"1h 45m",
+        "Poster":"https://mr.comingsoon.it/imgdb/locandine/big/56884.jpg",
+        "Plot":"In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town",
+        "ratings":"7.3/10 63k"
+    }
+    
+
+]
