@@ -11,7 +11,7 @@ import { PageNotFound } from '../pages/PageNotFound'
 export const Allroutes = () => {
   return (
     <Routes>
-        <Route path='/' element={<MovieList title="MovieHub"/>}/>
+        <Route path='/MovieHub' element={<MovieList title="MovieHub"/>}/>
         <Route path='/toprates' element={<Toprates title="Top Rates"/>}/>
         <Route path='/popular' element={<Popular title="Popular Movies" />}/>
         <Route path='/upcoming' element={<Upcoming title="Upcoming Movies"/>}/>

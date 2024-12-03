@@ -24,7 +24,7 @@ export const Header = () => {
 
           <div className="collapse navbar-collapse" id='navbarSupportedContent'>
             <ul className='navbar-nav me-auto mb-2 mb-md-0'>
-              <li className='nav-item active'><Link to='/' className='nav-link'>Home</Link></li>
+              <li className='nav-item active'><Link to='/MovieHub' className='nav-link'>Home</Link></li>
               <li className='nav-item'><Link to="/toprates" className='nav-link'>Top Rates</Link></li>
               <li className='nav-item'><Link to="/popular" className='nav-link'>Popular</Link></li>
               <li className='nav-item'><Link to="/upcoming" className='nav-link' >Upcoming</Link></li>
