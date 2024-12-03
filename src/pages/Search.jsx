@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import { Link, useNavigate } from 'react-router-dom'
+import Backup from '../assests/Backup.jpg'
 
 const url = 'https://www.omdbapi.com/?'
 const api_key = 'apikey=b1b5d454'
@@ -31,7 +32,7 @@ export const Search = () => {
         {movie.map((movies,id)=>{
         return (<div className='col' key={id}>
           <div className='card shadow-sm p-2' title={movies.Title} >
-            <img src={movies.Poster} alt={movies.Title} className='card-img-top img-fluid'/>
+            {movies.Poster=="N/A"?<img src={Backup} alt={movies.Title} className='card-img-top img-fluid'/>:<img src={movies.Poster} alt={movies.Title} className='card-img-top img-fluid'/>}
             <div className="card-body">
               <h3 className='card-title text-overflow-1 text-center'>{movies.Title}</h3>
               <p className='text-muted card-text text-overflow-2'>{movies.Plot}</p>
