@@ -29,15 +29,15 @@ export const Search = () => {
         movie?.length>0 ? (
           <div className='row row-cols-1 row-cols-md-2 row-cols-lg-4 g-3'> 
         {movie.map((movies,id)=>{
-        return (<div className='col'>
-          <div className='card shadow-sm p-2' title={movie.Title} >
+        return (<div className='col' key={id}>
+          <div className='card shadow-sm p-2' title={movies.Title} >
             <img src={movies.Poster} alt={movies.Title} className='card-img-top img-fluid'/>
             <div className="card-body">
-              <h3 className='card-title text-overflow-1 text-center'>{movie.Title}</h3>
-              <p className='text-muted card-text text-overflow-2'>{movie.Plot}</p>
-              <div className='d-flex align-items-center justify-content-between' >
-                  <Link to={`/movie/${movies.Title}`} className='btn btn-sm btn-outline-primary stretched-link' onClick={()=>navigate('/movie/:id')} movies={movies}>Read More</Link>
-                  <a href={`http://www.imdb.com/title/${movie.imdbID}`} target='__blank' className='btn btn-warning'>IMDb</a>
+              <h3 className='card-title text-overflow-1 text-center'>{movies.Title}</h3>
+              <p className='text-muted card-text text-overflow-2'>{movies.Plot}</p>
+              <div className='d-flex align-items-center justify-content-center text-center' >
+                  <Link to={`/MovieHub/${movies.Title}`} className='btn btn-sm btn-outline-primary stretched-link' onClick={()=>navigate('/MovieHub/:id')} movies={movies}>Read More</Link>
+                  {/* <a href={`http://www.imdb.com/title/${movies.imdbID}`} target='__blank' className='btn btn-warning'>IMDb</a> */}
               </div>
             </div>
           </div>

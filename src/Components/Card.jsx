@@ -12,7 +12,7 @@ export const Card = ({movies}) => {
           <h3 className='card-title text-overflow-1'>{movies.Title}</h3>
           <p className='text-muted card-text text-overflow-2'>{movies.Plot}</p>
           <div className='d-flex align-items-center justify-content-between' >
-              <Link to={`/movie/${movies.Title}`} className='btn btn-sm btn-outline-primary stretched-link' onClick={()=>navigate('/movie/:id')} movies={movies}>Read More</Link>
+              <Link to={`/MovieHub/${movies.Title}`} className='btn btn-sm btn-outline-primary stretched-link' onClick={()=>navigate('/MovieHub/:id')} movies={movies}>Read More</Link>
               <small>
                 <i className='bi bi-star-half text-warning'></i>{movies.ratings}
               </small>

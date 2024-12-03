@@ -10,9 +10,9 @@ export const Header = () => {
       // e.preventDefalut();
       var queryTerm = e.target.value
       console.log(queryTerm);
-      queryTerm=0
+      // queryTerm=0
       // queryTerm==" "
-      return navigate(`/search?q=${queryTerm}`)
+      return navigate(`/MovieHub/search?q=${queryTerm}`)
   }
   return (
     <nav className='navbar navbar-expand-md bg-primary fixed-top navbar-light text-light'>
@@ -25,9 +25,9 @@ export const Header = () => {
           <div className="collapse navbar-collapse" id='navbarSupportedContent'>
             <ul className='navbar-nav me-auto mb-2 mb-md-0'>
               <li className='nav-item active'><Link to='/MovieHub' className='nav-link'>Home</Link></li>
-              <li className='nav-item'><Link to="/toprates" className='nav-link'>Top Rates</Link></li>
-              <li className='nav-item'><Link to="/popular" className='nav-link'>Popular</Link></li>
-              <li className='nav-item'><Link to="/upcoming" className='nav-link' >Upcoming</Link></li>
+              <li className='nav-item'><Link to="/MovieHub/toprates" className='nav-link'>Top Rates</Link></li>
+              <li className='nav-item'><Link to="/MovieHub/popular" className='nav-link'>Popular</Link></li>
+              <li className='nav-item'><Link to="/MovieHub/upcoming" className='nav-link' >Upcoming</Link></li>
             </ul>
             <form onChange={handleSearch}>
               <input type="text" className='form-control form-control-ms' ref={inputRef} placeholder='Search...'/>

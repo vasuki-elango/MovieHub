@@ -16,7 +16,7 @@ export const MovieList = ({title}) => {
           title==="MovieHub" ? <div className='bg-light p-4 border'>
             <h3>Welcome To MovieHub</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum ex soluta magni, velit ullam iste tenetur aliquam optio repellendus sequi ut quae fugiat dicta a eos ducimus, animi, rem eum.</p>
-            <button className='btn btn-primary' onClick={()=>navigate('/upcoming')}>Explore Now</button>
+            <button className='btn btn-primary' onClick={()=>navigate('/MovieHub/upcoming')}>Explore Now</button>
           </div>:""
         }
         <h1 className='text-center text-danger py-3'>Movie</h1>
