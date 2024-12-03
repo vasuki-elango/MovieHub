@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import Backup from '../assests/Backup.jpg'
 
-const url = 'http://www.omdbapi.com/?'
+const url = 'https://www.omdbapi.com/?'
 const api_key = 'apikey=b1b5d454'
 export const MovieDetails = () => {
 

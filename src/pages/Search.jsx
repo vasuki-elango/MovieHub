@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import { Link, useNavigate } from 'react-router-dom'
 
-const url = 'http://www.omdbapi.com/?'
+const url = 'https://www.omdbapi.com/?'
 const api_key = 'apikey=b1b5d454'
 export const Search = () => {
   const [searchParams] = useSearchParams();
